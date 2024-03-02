@@ -1,6 +1,3 @@
-raw = input('Enter number:')
-try:
-    num = int(raw)
-    print(num)
-except ValueError:
-    print(raw)
+raw = input('Enter number in numbers:')
+num = int(raw)
+print(num)
