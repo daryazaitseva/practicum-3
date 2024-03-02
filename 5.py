@@ -1,2 +1,2 @@
 number = int(input('Введите число: '))
-print(number * "(\___/)", number * "(='.'=)", number * "(\")_(\")", sep ="\n")
+print(number * "(\___/) ", number * "(='.'=) ", number * "(\")_(\") ", sep ="\n")
